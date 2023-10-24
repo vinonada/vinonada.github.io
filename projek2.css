@@ -1,0 +1,66 @@
+header{
+    text-align: center;
+    background-color:mediumspringgreen;
+    border-radius: 50px;
+    box-shadow: black 10px 8px;
+}
+body{
+    background-color:darkgrey;
+    color:black
+}
+table{
+    width: 100%;
+}
+td{
+    width: 10%;
+}
+h1{
+    background-color: darkgoldenrod;
+    display: inline-block;
+    color: white;
+}
+#hobi{
+    background-color:deepskyblue;
+    display: inline-block;
+}
+#riwayat{
+    background-color:deepskyblue;
+    display: inline-block;
+}
+#projek{
+    background-color: deepskyblue;
+    display: inline-block;
+}
+.hobi{
+    background-color:plum;
+    border-radius: 20px;
+    box-shadow: black 15px 12px;
+    padding: 10px;
+    margin: 15px;
+}
+.riwayat{
+    background-color:plum;
+    border-radius: 20px;
+    box-shadow: black 15px 12px;
+    padding: 10px;
+    margin: 15px;
+}
+.projek{
+    background-color:plum;
+    border-radius: 20px;
+    box-shadow: black 15px 12px;
+    padding: 10px;
+    margin: 15px;
+}
+.projek:hover{
+    background-color:mediumspringgreen;
+}
+.riwayat:hover{
+    background-color:mediumvioletred
+}
+.hobi:hover{
+    background-color:mediumvioletred;
+}
+header:hover{
+    background-color:cornflowerblue;
+}

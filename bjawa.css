@@ -1,0 +1,30 @@
+body{
+    background-color: aliceblue;
+    color: black;
+}
+h1{
+    background-color:lightsteelblue;
+    display: inline-block;
+}
+.h3{
+    background-color: mediumaquamarine;
+    display: inline-block;
+}
+.oren{
+    background-color: orange;
+}
+.lime{
+    background-color: lawngreen;
+}
+.biru{
+    background-color: lightskyblue;
+}
+p{
+    font-size: 20px;
+}
+li{
+    font-size: 20px; 
+}
+td{
+    font-size: 20px;  
+}

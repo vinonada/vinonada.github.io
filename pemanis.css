@@ -1,0 +1,35 @@
+table{
+    width: 100%;
+}
+td{
+    width: 10%;
+}
+header{
+    background-color: mediumspringgreen;
+    text-align: center;
+}
+header:hover{
+    background-color: violet;
+}
+body{
+    background-color: cornflowerblue;
+}
+#social-media{
+    display: inline;
+}
+#left-side{
+    display:inline-block;
+    background-color: blue;
+}
+#left-side:hover{
+    display: inline;
+    background-color: blueviolet;
+}
+.right-side{
+    display: inline;
+    background-color: red;
+}
+.right-side:hover{
+    display: inline;
+    background-color: aquamarine;
+}

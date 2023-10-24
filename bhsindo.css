@@ -1,0 +1,23 @@
+body{
+    background-color: midnightblue;
+    color:white;
+}
+table{
+    border: 1px solid pink
+}
+h2{
+    background-color: greenyellow;
+    display: inline-block;
+    color:indigo;
+}
+.struktur{
+    background-color:goldenrod;
+    display: inline-block;
+    color: indigo;
+}
+p{
+    font-size: 20px;
+}
+li{
+    font-size: 20px;
+}

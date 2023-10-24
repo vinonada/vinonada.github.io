@@ -1,0 +1,39 @@
+#bagian-atas{
+    width: 30%;
+    text-align: center;
+}
+td{
+    width: 8%;
+    padding: 0px;
+    margin: 0px;
+}
+#bagian-bawah{
+    width: 30%;
+    border-radius: 20px;
+    background-color: aqua;
+    border: 2px solid blanchedalmond;
+    padding: 10px;
+    margin: 0px;
+    text-align: center;
+}
+td{
+    width: 8%;
+    padding: 0px;
+    margin: 0px;
+}
+#logo{
+    display: inline;
+    color: blue;
+    text-align: center;
+    background-color: white;
+    border: 2px solid white;
+    text-align: center;
+}
+#tengah{
+    width: 28%;
+    background-color: white;
+    border: 2px solid white;
+    padding: 5px;
+    margin: 0px;
+    text-align: center;
+}

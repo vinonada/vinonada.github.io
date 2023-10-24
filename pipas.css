@@ -1,0 +1,20 @@
+table{
+    width: 100%;
+    border: solid plum;
+}
+p{
+    font-size: 20px;
+}
+.pink{
+    background-color: pink;
+}
+h2{
+    color:deeppink;
+}
+h3{
+    color: crimson;
+}
+h1{
+    text-align: center;
+    background-color: palevioletred;
+}
